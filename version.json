@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "tag": "v0.1.0-build1",
+  "date": "2026-11-17T20:20:55Z",
+  "apk_filename": "BaccaSonus-v0.1.0-build1.apk",
+  "deb_filename": "bacca-sonus_0.1.0-build1_amd64.deb",
+  "exe_filename": "BaccaSonus-0.1.0-build1-Setup.exe",
+  "apk_sha256": "73048c12d6df4b81542abe7042461cb4efd4192fad0a6942f5236a37a0337ec4",
+  "deb_sha256": "2e2d56fd6edc330f142f48dbc75f5ed5b6f747f276418f368045d0f7690a494e",
+  "exe_sha256": "572e97ac898764288b5c66f20e89087972241d890f2c69b8a6373d87604f4da3",
+  "release_notes": "Bacca Sonus 0.1.0, build 1."
+}
